@@ -6,11 +6,11 @@ use aoc_runner_derive::{aoc/*, aoc_generator*/};
 // }
 
 #[aoc(day1, part1)]
-fn part_one(_: &str) -> i32 {
+fn part_one(input: &str) -> i32 {
     0
 }
 
 #[aoc(day1, part2)]
-fn part_two(_: &str) -> i32 {
+fn part_two(input: &str) -> i32 {
     0
 }
