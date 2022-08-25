@@ -1,9 +1,16 @@
-#[aoc(day1, part1)]
-pub fn part1(input: &str) {
+use aoc_runner_derive::{aoc/*, aoc_generator*/};
 
+// #[aoc_generator(day1)]
+// fn parse_input(input: &str) -> str {
+//     return input;
+// }
+
+#[aoc(day1, part1)]
+fn part_one(input: &str) -> i32 {
+    0
 }
 
 #[aoc(day1, part2)]
-pub fn part2(input: &str) {
-
+fn part_two(input: &str) -> i32 {
+    0
 }
