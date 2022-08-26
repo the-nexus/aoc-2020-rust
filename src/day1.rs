@@ -48,5 +48,5 @@ fn test_part_one() {
 #[test]
 fn test_part_two() {
     let sample = vec![1721, 979, 366, 299, 675, 1456];
-    assert_eq!(514579, part_one(&sample));
+    assert_eq!(241861950, part_two(&sample));
 }
